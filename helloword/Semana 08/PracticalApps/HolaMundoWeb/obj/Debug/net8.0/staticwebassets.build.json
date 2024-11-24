@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "fWtsg0ioFdMFXcbLGuNrPbxeAPeHlabTN25ee9X4EkI=",
+  "Source": "HolaMundoWeb",
+  "BasePath": "_content/HolaMundoWeb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "HolaMundoWeb/wwwroot",
+      "Source": "HolaMundoWeb",
+      "ContentRoot": "/home/raul/Documents/Teaching/POO/Shared/CodeExamples/Semana 08/PracticalApps/HolaMundoWeb/wwwroot/",
+      "BasePath": "_content/HolaMundoWeb",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/raul/Documents/Teaching/POO/Shared/CodeExamples/Semana 08/PracticalApps/HolaMundoWeb/wwwroot/index.html",
+      "SourceId": "HolaMundoWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/raul/Documents/Teaching/POO/Shared/CodeExamples/Semana 08/PracticalApps/HolaMundoWeb/wwwroot/",
+      "BasePath": "_content/HolaMundoWeb",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    }
+  ]
+}

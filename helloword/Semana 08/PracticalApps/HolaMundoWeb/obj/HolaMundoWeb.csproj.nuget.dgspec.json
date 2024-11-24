@@ -1,0 +1,211 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/raul/Documents/Teaching/POO/Shared/CodeExamples/Semana 08/PracticalApps/HolaMundoWeb/HolaMundoWeb.csproj": {}
+  },
+  "projects": {
+    "/home/raul/Documents/Teaching/POO/Shared/CodeExamples/Semana 08/PracticalApps/HolaMundoWeb/HolaMundoWeb.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/raul/Documents/Teaching/POO/Shared/CodeExamples/Semana 08/PracticalApps/HolaMundoWeb/HolaMundoWeb.csproj",
+        "projectName": "HolaMundoWeb",
+        "projectPath": "/home/raul/Documents/Teaching/POO/Shared/CodeExamples/Semana 08/PracticalApps/HolaMundoWeb/HolaMundoWeb.csproj",
+        "packagesPath": "/home/raul/.nuget/packages/",
+        "outputPath": "/home/raul/Documents/Teaching/POO/Shared/CodeExamples/Semana 08/PracticalApps/HolaMundoWeb/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/raul/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/raul/Documents/Teaching/POO/Shared/CodeExamples/Semana 08/PracticalApps/Northwind.DataContext.Sqlite/Northwind.DataContext.Sqlite.csproj": {
+                "projectPath": "/home/raul/Documents/Teaching/POO/Shared/CodeExamples/Semana 08/PracticalApps/Northwind.DataContext.Sqlite/Northwind.DataContext.Sqlite.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/raul/Documents/Teaching/POO/Shared/CodeExamples/Semana 08/PracticalApps/Northwind.DataContext.Sqlite/Northwind.DataContext.Sqlite.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/raul/Documents/Teaching/POO/Shared/CodeExamples/Semana 08/PracticalApps/Northwind.DataContext.Sqlite/Northwind.DataContext.Sqlite.csproj",
+        "projectName": "Northwind.DataContext.Sqlite",
+        "projectPath": "/home/raul/Documents/Teaching/POO/Shared/CodeExamples/Semana 08/PracticalApps/Northwind.DataContext.Sqlite/Northwind.DataContext.Sqlite.csproj",
+        "packagesPath": "/home/raul/.nuget/packages/",
+        "outputPath": "/home/raul/Documents/Teaching/POO/Shared/CodeExamples/Semana 08/PracticalApps/Northwind.DataContext.Sqlite/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/raul/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/raul/Documents/Teaching/POO/Shared/CodeExamples/Semana 08/PracticalApps/Northwind.EntityModels.Sqlite/Northwind.EntityModels.Sqlite.csproj": {
+                "projectPath": "/home/raul/Documents/Teaching/POO/Shared/CodeExamples/Semana 08/PracticalApps/Northwind.EntityModels.Sqlite/Northwind.EntityModels.Sqlite.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SQLite": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/raul/Documents/Teaching/POO/Shared/CodeExamples/Semana 08/PracticalApps/Northwind.EntityModels.Sqlite/Northwind.EntityModels.Sqlite.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/raul/Documents/Teaching/POO/Shared/CodeExamples/Semana 08/PracticalApps/Northwind.EntityModels.Sqlite/Northwind.EntityModels.Sqlite.csproj",
+        "projectName": "Northwind.EntityModels.Sqlite",
+        "projectPath": "/home/raul/Documents/Teaching/POO/Shared/CodeExamples/Semana 08/PracticalApps/Northwind.EntityModels.Sqlite/Northwind.EntityModels.Sqlite.csproj",
+        "packagesPath": "/home/raul/.nuget/packages/",
+        "outputPath": "/home/raul/Documents/Teaching/POO/Shared/CodeExamples/Semana 08/PracticalApps/Northwind.EntityModels.Sqlite/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/raul/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

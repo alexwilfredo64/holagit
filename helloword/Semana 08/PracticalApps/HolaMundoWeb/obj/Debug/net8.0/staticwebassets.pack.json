@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/home/raul/Documents/Teaching/POO/Shared/CodeExamples/Semana 08/PracticalApps/HolaMundoWeb/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.HolaMundoWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.HolaMundoWeb.props",
+      "PackagePath": "build\\HolaMundoWeb.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.HolaMundoWeb.props",
+      "PackagePath": "buildMultiTargeting\\HolaMundoWeb.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.HolaMundoWeb.props",
+      "PackagePath": "buildTransitive\\HolaMundoWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

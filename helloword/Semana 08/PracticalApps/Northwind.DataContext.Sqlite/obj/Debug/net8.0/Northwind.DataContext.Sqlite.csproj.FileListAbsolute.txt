@@ -1,0 +1,15 @@
+/home/raul/Documents/Teaching/POO/Shared/CodeExamples/Semana 08/PracticalApps/Northwind.DataContext.Sqlite/bin/Debug/net8.0/Northwind.DataContext.Sqlite.deps.json
+/home/raul/Documents/Teaching/POO/Shared/CodeExamples/Semana 08/PracticalApps/Northwind.DataContext.Sqlite/bin/Debug/net8.0/Northwind.DataContext.Sqlite.dll
+/home/raul/Documents/Teaching/POO/Shared/CodeExamples/Semana 08/PracticalApps/Northwind.DataContext.Sqlite/bin/Debug/net8.0/Northwind.DataContext.Sqlite.pdb
+/home/raul/Documents/Teaching/POO/Shared/CodeExamples/Semana 08/PracticalApps/Northwind.DataContext.Sqlite/bin/Debug/net8.0/Northwind.EntityModels.Sqlite.dll
+/home/raul/Documents/Teaching/POO/Shared/CodeExamples/Semana 08/PracticalApps/Northwind.DataContext.Sqlite/bin/Debug/net8.0/Northwind.EntityModels.Sqlite.pdb
+/home/raul/Documents/Teaching/POO/Shared/CodeExamples/Semana 08/PracticalApps/Northwind.DataContext.Sqlite/obj/Debug/net8.0/Northwind.DataContext.Sqlite.csproj.AssemblyReference.cache
+/home/raul/Documents/Teaching/POO/Shared/CodeExamples/Semana 08/PracticalApps/Northwind.DataContext.Sqlite/obj/Debug/net8.0/Northwind.DataContext.Sqlite.GeneratedMSBuildEditorConfig.editorconfig
+/home/raul/Documents/Teaching/POO/Shared/CodeExamples/Semana 08/PracticalApps/Northwind.DataContext.Sqlite/obj/Debug/net8.0/Northwind.DataContext.Sqlite.AssemblyInfoInputs.cache
+/home/raul/Documents/Teaching/POO/Shared/CodeExamples/Semana 08/PracticalApps/Northwind.DataContext.Sqlite/obj/Debug/net8.0/Northwind.DataContext.Sqlite.AssemblyInfo.cs
+/home/raul/Documents/Teaching/POO/Shared/CodeExamples/Semana 08/PracticalApps/Northwind.DataContext.Sqlite/obj/Debug/net8.0/Northwind.DataContext.Sqlite.csproj.CoreCompileInputs.cache
+/home/raul/Documents/Teaching/POO/Shared/CodeExamples/Semana 08/PracticalApps/Northwind.DataContext.Sqlite/obj/Debug/net8.0/Northwin.446D235C.Up2Date
+/home/raul/Documents/Teaching/POO/Shared/CodeExamples/Semana 08/PracticalApps/Northwind.DataContext.Sqlite/obj/Debug/net8.0/Northwind.DataContext.Sqlite.dll
+/home/raul/Documents/Teaching/POO/Shared/CodeExamples/Semana 08/PracticalApps/Northwind.DataContext.Sqlite/obj/Debug/net8.0/refint/Northwind.DataContext.Sqlite.dll
+/home/raul/Documents/Teaching/POO/Shared/CodeExamples/Semana 08/PracticalApps/Northwind.DataContext.Sqlite/obj/Debug/net8.0/Northwind.DataContext.Sqlite.pdb
+/home/raul/Documents/Teaching/POO/Shared/CodeExamples/Semana 08/PracticalApps/Northwind.DataContext.Sqlite/obj/Debug/net8.0/ref/Northwind.DataContext.Sqlite.dll
